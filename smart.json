@@ -3,6 +3,6 @@
   "description": "Leaflet LocateControl Plugin for Meteor",
   "homepage": "https://github.com/bevanhunt/meteor-leaflet-locatecontrol",
   "author": "Bevan Hunt <bevan@bevanhunt.com> (http://www.bevanhunt.com)",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "git": "https://github.com/bevanhunt/meteor-leaflet-locatecontrol.git"
 }
