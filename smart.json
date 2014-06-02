@@ -1,0 +1,8 @@
+{
+  "name": "leaflet-locatecontrol",
+  "description": "Leaflet LocateControl Plugin for Meteor",
+  "homepage": "https://github.com/bevanhunt/meteor-leaflet-locatecontrol",
+  "author": "Bevan Hunt <bevan@bevanhunt.com> (http://www.bevanhunt.com)",
+  "version": "0.0.7",
+  "git": "https://github.com/bevanhunt/meteor-leaflet-locatecontrol.git"
+}
